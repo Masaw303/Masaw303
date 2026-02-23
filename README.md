@@ -1,9 +1,6 @@
 # Hi there! I'm Truong Tran 🚀
 
 ### 🎨 Creative Developer & Multimedia Artist
-A versatile developer blending technical expertise in **Game Development** and **Software Engineering** with a passion for **Digital Arts** and **Motion Design**.
-
----
 
 ## 🛠 My Tech Universe
 
