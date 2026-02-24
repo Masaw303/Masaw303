@@ -1,6 +1,12 @@
 # Hi there! I'm Truong Tran 🚀
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRxZHh0bTBuZG03MnJoNzZ6cWhjdTBodnNwZnVhNGVkOWx1bWsyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="600" />
+</p>
+
 ### 🎨 Developer & Multimedia Artist
+
+---
 
 ## 🛠 My Tech Universe
 
@@ -17,6 +23,7 @@
 ### 🎨 Design & Multimedia
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+---
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tran.hong.truong.785584) 
