@@ -1,6 +1,6 @@
 # Hi there! I'm Truong Tran 🚀
 
-### 🎨 Creative Developer & Multimedia Artist
+### 🎨 Developer & Multimedia Artist
 
 ## 🛠 My Tech Universe
 
